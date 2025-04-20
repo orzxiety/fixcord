@@ -7,10 +7,6 @@
     padding-right: 0%;
 }
 
-[class*="page"] section {
-    padding-left: var(--space-16) !important;
-}
-
 [class*="form"] [class*="typing"] {
     color: var(--text-normal);
 }
