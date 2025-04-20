@@ -8,7 +8,7 @@
 }
 
 [class*="page"] section {
-    padding-left: var(--custom-message-margin-horizontal) !important;
+    padding-left: var(--space-16) !important;
 }
 
 [class*="form"] [class*="typing"] {
@@ -19,7 +19,7 @@
     backdrop-filter: unset !important;
 }
 
-[class*="closedFolderIconWrapper_"] > [class*="guildIcon_"] {
+[class*="closedFolderIconWrapper"] > [class*="guildIcon"] {
     border-radius: 50% !important;
 }
 
