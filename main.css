@@ -1,0 +1,36 @@
+[class*="content"] [class*="scrollerSpacer"] {
+    height: 32px;
+}
+
+[class*="members"] [class*="childContainer"] {
+    padding-left: 0%;
+    padding-right: 0%;
+}
+
+[class*="page"] section {
+    padding-left: var(--custom-message-margin-horizontal) !important;
+}
+
+[class*="form"] [class*="typing"] {
+    color: var(--text-normal);
+}
+
+[class*="headerGlass"] {
+    backdrop-filter: unset !important;
+}
+
+[class*="closedFolderIconWrapper_"] > [class*="guildIcon_"] {
+    border-radius: 50% !important;
+}
+
+[class*="trailing"] > a {
+    display: none !important;
+}
+
+[class*="recentMentionsPopout"] [class*="tabBar"] > [class*="item"] {
+    margin-left: var(--space-sm) !important;
+}
+
+[class*="h5"], [class*="jumpToPresentBar"] {
+    text-transform: none;
+}
