@@ -15,7 +15,7 @@
     backdrop-filter: unset !important;
 }
 
-[class*="closedFolderIconWrapper"] > [class*="guildIcon"] {
+[class*="folderPreview"] > [class*="folderPreviewGuildIcon"] {
     border-radius: 50% !important;
 }
 
