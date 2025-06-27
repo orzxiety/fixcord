@@ -7,10 +7,6 @@
     padding-right: 0%;
 }
 
-[class*="form"] [class*="typing"] {
-    color: var(--text-normal);
-}
-
 [class*="headerGlass"] {
     backdrop-filter: unset !important;
 }
