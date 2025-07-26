@@ -7,20 +7,12 @@
     padding-right: 0%;
 }
 
-[class*="headerGlass"] {
-    backdrop-filter: unset !important;
-}
-
 [class*="folderPreview"] > [class*="folderPreviewGuildIcon"] {
     border-radius: 50% !important;
 }
 
 [class*="trailing"] > a {
     display: none !important;
-}
-
-[class*="recentMentionsPopout"] [class*="tabBar"] > [class*="item"] {
-    margin-left: var(--space-sm) !important;
 }
 
 [class*="h5"], [class*="jumpToPresentBar"] {
